@@ -1,0 +1,148 @@
+
+
+
+
+
+<html>
+ <head>
+ <meta name = "viewport"  content = "width = device-width ,  initial scale = 1 ">
+
+
+   <title> WakeCupI
+  </title>
+  
+     
+
+  <link rel="stylesheet" href = "laptop1-5.css" >
+<style>
+ body{
+  
+  
+  width: 100vw; /* Full viewport width */
+  height: 100vh; /* Full viewport height */
+  background-image: url("wake-header1.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; /* Ensure the image covers the entire screen */
+  background-position: center;/* Center the image on the screen */
+  font-size: 1.5vw;
+  margin: 0; /* Remove any default margin */
+  overflow: hidden; /* Prevent scrollbars from appearing */
+
+
+ }
+
+
+</style>
+         
+</head>
+
+    
+<body>
+
+  
+    
+   
+   <header > 
+    
+   
+   <div >
+      <img  src="./images/WakeCup_500x500.png"  width = 100vw  height= 100vh >  
+ 
+    </div>
+
+
+
+    
+   </div>
+   <div class ="nstyle">
+   <nav>
+ 
+    
+    <a   href = "/wake2-aboutus.html   ">       About us      </a>
+    <a   href = "/wake3-blends.html      ">     Coffee  Blends   </a>
+    <a   href = "/wake4-brew.html         ">    Brewing Equipment   </a>
+    <a   href = "wake5-learn.html         ">    Learn with us   </a>
+    <a   href = "wake8-contact.html        ">   Contact-us</a>
+    <a   href = "wake22-testimonials.html">   Testimonials</a>
+    <a   href = "wake10-exit.html">Exit</a>
+         
+      
+   </nav>
+  
+
+
+</div>
+
+</header>
+
+    <section>
+
+
+    <article class="cbox">
+
+    <p>
+
+                                  WakeCup isn’t just a call to rise and win, it is our    mission to<br/><br/>
+                                  tap into the finest plantations and estates for the greatest coffee<br/><br/>
+                                  that our planet produces. Whether it’s a steaming mug of straight up </br></br>
+                                  cappuccino, a tumbler of flavoursome Indian filter kaapi, or a tall glass<br/></br>
+                                  of vanilla matcha latte - we’ve got the blend that puts the zing in your </br><br>
+                                  step and the life in your day!        WAKE UP WITH US ....!
+   
+
+
+    </p>
+   <article>
+   </section>
+
+
+
+    <div class="buts">
+
+    <nav>
+
+
+
+      <a style = "color :rgb(232, 222, 222);" href="/wake17-cafes.html" >Our Cafes</a>
+      
+
+
+      
+    </nav>
+
+   </div>
+
+   <div class="source">
+
+      <nav>
+  
+          <a style = "color:rgb(221, 205, 205);" href = "/wake9-source1.html">Our Sources</a>
+  
+      </nav>
+     </div>
+  
+     </div>
+     
+
+
+     <footer class = "foot">
+      <p> 400 VGR PURAM  Saibaba Colony
+         Coimbatore - 611011       ph :0422-2479396      </p>
+  
+       </footer>
+
+
+body>
+  </body>
+    
+     
+  </html>
+
+
+  <div style = "position : fixed ; bottom : 10px;  right : 15px;">
+   <img  src="./images/social media.png"  width = 100vw;  height= 100vh;>  
+
+ </div>
+
+
+ <link rel="stylesheet" href = "common.css"  type = "text/css">

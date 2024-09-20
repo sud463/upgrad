@@ -1,0 +1,26 @@
+<html>
+
+
+<head>
+
+    <title> test</title>
+
+ <link rel = "stylesheet" href = "common.css" type = "text/css">
+
+
+
+
+</head>
+
+<body class="foot">
+
+
+
+    <iframe srdoc = "this is sample code"></iframe>
+
+
+
+    </body>
+
+
+    </html>

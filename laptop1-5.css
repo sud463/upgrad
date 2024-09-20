@@ -1,0 +1,207 @@
+
+
+
+     
+    
+    .main{
+       
+       font-size : brown;
+       font-size : 22pt;
+    }
+    
+    
+    .buts{
+    
+        position : relative;
+
+        top   : 10rem;
+        left :  5rem;
+         
+      
+       /* background-color:rgb(65, 52, 52);*/
+        color : rgb(236, 100, 100);
+        height : 100%;
+        width  : 100%;  
+        font-size: 1.5rem;
+            
+      
+       }
+    
+    
+    .source{ 
+    
+    
+
+       
+    position : relative;
+    
+    top : 1%;
+    left : 4%;
+    
+    
+    /*background-color:rgb(123, 89, 89); */
+    
+    
+    color : rgb(222, 199, 199);
+    height :100%;
+    width  :100%; 
+    font-size: 1.5rem
+      
+    }
+    
+    
+    .liststyle{
+    
+       color: rgb(216, 207, 207); font-size : 18pt;
+    
+    }
+    
+    .cbox {
+    color : rgb(206, 193, 193);
+    position : absolute;
+    left: 15%; 
+    top : 20%;
+    text-align : left;
+    font-size : 1.5rem;
+   }
+    
+    
+    .topnav {
+           
+      
+      position : relative;
+     bottom : 2.5rem;
+     left : 2.5rem;
+     color :rgb(238, 230, 227);
+     font-size : 1.5vw;
+      padding : 0 20px;
+      float :  left;
+    }
+    
+    .topnav a {
+
+      color : rgba(220, 215, 215, 0.875);
+      font-size : 1.5rem;
+      float : none;
+      width :100%;
+    text-align : center ;
+    padding : 1rem 1rem;
+    font-size :1.5rem;
+    }
+
+    .topnav  a:hover {
+
+      color: rgba(231, 40, 40, 0.967);
+    }
+
+    .topnav  a.active {
+
+       color:  rgb(237, 231, 231);
+    }
+
+     .topnav .reponsive {
+
+     color : gray;
+     float :none;
+      font-size :1.5rem;
+
+     }
+      .topnav .icon {
+
+     display : none;
+
+     }
+
+
+    .topnav.responsive .a {
+
+      color : gray;
+      float :none;
+       font-size : 1.5rem;
+      display :block;
+      text-align : left;
+     }
+     
+    .topnav .responsive a.icon {
+
+      position :absolute;
+      right : 0;
+      top   :0;
+    } 
+
+    .topnav a.icon {
+
+      margin-right :.5rem;
+    }
+
+}
+
+    @media screen and (max-width : 600x)
+   
+   {
+    .topnav a :not ( :first-child)
+                (display:none); 
+
+     .topnav  a.icon {
+
+           float : right;
+           display :block
+     }
+
+   
+ .topnav  .responsive  .icon {
+
+position : absolute;
+right :0;
+top :0;
+
+}
+
+
+
+}
+   
+   
+    
+   
+     .logo{
+      
+
+      position: fixed;
+
+      top : auto;
+      left : auto;
+            
+      
+    /*position : fixed;
+    top :2px;
+    left :2px; */
+    
+    }
+    
+
+
+   .foot{
+
+    position : relative;
+    left : 25%;
+     top: 15%;
+   
+    color : rgb(192, 108, 12);
+   }
+
+    
+   /*.smedia-parent {
+    width :  100%;
+    height : auto;
+    position : relative;
+    
+    
+  }  */
+
+   
+    
+   
+  
+  
+  

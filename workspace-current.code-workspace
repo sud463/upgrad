@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../work/sample programs"
+		},
+		{
+			"path": "../work"
+		},
+		{
+			"path": "../upgrad"
+		},
+		{
+			"path": "../upgrad/work"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html-project",
+		"liveServer.settings.port": 5501
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			
+
+		]
+	}
+}
